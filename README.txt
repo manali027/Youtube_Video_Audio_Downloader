@@ -1,9 +1,9 @@
 ------------------------------Youtube Video/Audio Downloader(automation script)---------------------------------------------------
 
 A)Purpose of this app:
--Afew years back ago,I remember I used to install YTDownloader to download songs from youtube
--So now,I wanted to know I thought of integrating on my own
--Thus the ideo popped up to build a youtube dowloader automation app
+-Afew years back ago,I remember I used to install YTDownloader to download songs from youtube.
+-So now,I wanted to know I thought of integrating on my own.
+-Thus the idea popped up to build a youtube dowloader automation app.
 -It will download the Video or audio depending upon the user's choice.
 
 B)Python Module used in this:
